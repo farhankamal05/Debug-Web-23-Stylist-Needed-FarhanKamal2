@@ -1,0 +1,17 @@
+/* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+
+/* p had incorrectly typed the font size as it should be font-size */
+p {
+  color: black;
+  font-size: 12px;
+}
+/* The color was set to black so I changed it to blue */
+h1 {
+  font-weight: bold;
+  color: blue;
+}
+/* Same problem as heading 1 so I changed it to green */
+h2 {
+  color: green;
+}
